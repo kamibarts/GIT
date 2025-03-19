@@ -12,7 +12,7 @@
     {
         "id":2,
         "produto":"blusa",
-        "descriçao":blusa preta",
+        "descriçao":"blusa preta",
         "preco": 110,
         "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fshopee.com.br%2FCamiseta-Camisa-Preta-Lisa-Premium-Fio-30.1-Masculina-100-Algod%25C3%25A3o-Refor%25C3%25A7ada-AMGK-Promo%25C3%25A7%25C3%25A3o-i.666675756.16155049569&psig=AOvVaw3vFD8XbxAAQ41N4OW1FNI1&ust=1742484654600000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjD77i7lowDFQAAAAAdAAAAABAE"
     },
