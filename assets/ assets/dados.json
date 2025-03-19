@@ -1,1 +1,93 @@
+[
+    {
+    "id":1,
+    "produto":"bone",
+    "descriçao": "bone cinza",
+    "preco": 27,
+    "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.frankartsgrafite.com.br%2Fproduto%2Fbone-brim-cinza.html&psig=AOvVaw1pfJiRTDR_NJEduJ20AnnQ&ust=1742484580030000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjQk5W7lowDFQAAAAAdAAAAABAE"
+    },
 
+
+
+    {
+        "id":2,
+        "produto":"blusa",
+        "descriçao":blusa preta",
+        "preco": 110,
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fshopee.com.br%2FCamiseta-Camisa-Preta-Lisa-Premium-Fio-30.1-Masculina-100-Algod%25C3%25A3o-Refor%25C3%25A7ada-AMGK-Promo%25C3%25A7%25C3%25A3o-i.666675756.16155049569&psig=AOvVaw3vFD8XbxAAQ41N4OW1FNI1&ust=1742484654600000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjD77i7lowDFQAAAAAdAAAAABAE"
+    },
+
+        {
+            "id":3,
+            "produto":"cachecol",
+            "descriçao": "cachecol rosa",
+            "preco": 50,
+            "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.raquelbela.com.br%2Fcachecol-xadrez-rosa-lmd144ro&psig=AOvVaw0Ipz87NWV9rKq5iOi3-Tqf&ust=1742484745115000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDKjeW7lowDFQAAAAAdAAAAABAJ"
+        },
+
+
+
+            {
+                "id":4,
+                "produto":"calça",
+                "descriçao": "calça cargo",
+                "preco": 210,
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.briomundi.com.br%2Fcalca-cargo-verde-musgo%2F&psig=AOvVaw32hU07s95D4BpTxs7Z2nke&ust=1742484888051000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC02qi8lowDFQAAAAAdAAAAABAE"
+            },
+
+            {
+                "id":5,
+                "produto":"tenis",
+                "descriçao": "tenis branco",
+                "preco": 360,
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spacetennis.com.br%2Fproduto%2Ftenis-nike-court-vision-alta-ltr-feminino-branco%2F&psig=AOvVaw042NLD9TBJWvvTjsoN2SkZ&ust=1742484939692000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOir1sC8lowDFQAAAAAdAAAAABAE"
+            },
+            {
+                "id":6,
+                "produto":"moletom",
+                "descriçao": "moletom branco com desenho",
+                "preco": 190,
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fshopee.com.br%2FCasaco-Moletom-Extended-Sizes-Homens-Gr%25C3%25A1fico-de-desenho-animado-Streetwear-Novo!-i.348063976.23992376656&psig=AOvVaw0Y_LGB0Il8X9UicxVNomFr&ust=1742484994570000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDX6N68lowDFQAAAAAdAAAAABAE"           },
+            {
+                "id":7,
+                "produto":"corrente prata",
+                "descriçao": "corrente prata",
+                "preco": 150,
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Foldsiller.com.br%2Fproducts%2Fcorrente-de-prata-grumet-medium&psig=AOvVaw2ENdAuAXvk9IH8b4NVUnwO&ust=1742485120177000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjJjZe9lowDFQAAAAAdAAAAABAE"
+            },
+            {
+                "id":8,
+                "produto":"meia",
+                "descriçao": "meia preta",
+                "preco": 20,
+                "img": "https://www.google.com/imgres?q=meia%20preta&imgurl=https%3A%2F%2Fcdn.dooca.store%2F29563%2Fproducts%2Fss1fdhpjvzxucwt6zg1pohlubejkuitj0oqb.jpeg%3Fv%3D1695479540%26webp%3D0&imgrefurl=https%3A%2F%2Fwww.cuecastore.com.br%2Fmeia-feminina-cano-curto-lupo-preta-4572&docid=7ttnv5yaQ41XcM&tbnid=AfeOGRWySvDRrM&vet=12ahUKEwj27LOOvZaMAxVJKrkGHTCRFfsQM3oECFkQAA..i&w=849&h=1200&hcb=2&ved=2ahUKEwj27LOOvZaMAxVJKrkGHTCRFfsQM3oECFkQAA"
+            },
+            {
+                "id":9,
+                "produto":"oculos grife",
+                "descriçao": "oculos louis vitton",
+                "preco": 3000,
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.louisvuitton.com%2Fpor-br%2Fprodutos%2Flv-clash-s00-nvprod3430092v%2FZ1579W&psig=AOvVaw32lC56YVJvuJQ-G3UlIwGr&ust=1742485503854000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIj819C-lowDFQAAAAAdAAAAABAE"
+            },
+            {
+                "id":10,
+                "produto":"pulseira pandora",
+                "descriçao": "pulseira",
+                "preco": 2.000,
+                "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fmeninaelegante.com.br%2Fproducts%2Fpulseira-pandora-com-berloques-cravejado-prata-925-pul1538&psig=AOvVaw24WCR4hTLJ4KuBxUf-4V9N&ust=1742485398363000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjP8Jy-lowDFQAAAAAdAAAAABAE"
+            },
+            {
+                "id":11,
+                "produto":"biquini",
+                "descriçao": "biquini roxo",
+                "preco": 80,
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.praiou.com%2Fbiquini%2Fbiquini-cortininha-roxo-candy&psig=AOvVaw1NPzwyaCakVG9lfg_VbsAB&ust=1742485323366000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjTmvi9lowDFQAAAAAdAAAAABAE"
+            },
+            {
+                "id":12,
+                "produto":"chinelo Farm",
+                "descriçao": "chinelo branco e azul",
+                "preco": 70,
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fshopee.com.br%2FChinelo-Farm-Branco-Com-Azul-Tropical-Vibes-Macio-Ver%25C3%25A3o-i.1345165858.23693601712&psig=AOvVaw3IYSoF3VlolU8F1U3Glugp&ust=1742485276677000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjP0-K9lowDFQAAAAAdAAAAABAE"
+            }
+]
